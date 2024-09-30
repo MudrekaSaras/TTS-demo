@@ -86,4 +86,3 @@ This will generate an audio file named `output.wav` containing the synthesized s
 ## Acknowledgments
 
 - This project utilizes the [TTS](https://github.com/coqui-ai/TTS) package.
-```
